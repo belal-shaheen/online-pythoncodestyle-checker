@@ -8,8 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "ace-builds": "^1.4.12",
+    "fs": "^0.0.1-security",
+    "micropython": "^1.1.8",
     "next": "11.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-ace": "^9.4.1",
+    "react-dom": "17.0.2",
+    "worker-plugin": "^5.0.1"
   }
 }
